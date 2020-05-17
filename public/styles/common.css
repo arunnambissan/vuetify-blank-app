@@ -1,0 +1,9 @@
+.page-header {
+    margin-bottom: 15px;
+}
+
+table th + th { border-left:1px solid #dddddd; }
+table td + td { border-left:1px solid #dddddd; }
+table {
+    border: 1px solid #dddddd;
+}
